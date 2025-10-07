@@ -244,6 +244,7 @@ This code is placed in the public domain and is free to use for educational purp
 
 ## 🙏 Acknowledgments
 
+**See this course from CMU at:** https://courses.ideate.cmu.edu/16-223/f2025/text/code/FilterDemos.html#filterdemos-dev-tools
 Filter generation based on SciPy signal processing library and Butterworth filter design principles.
 
 ---
